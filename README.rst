@@ -12,6 +12,10 @@ mice, then I added support for other Rival devices thanks to contributors.
 Today this project aims to support any SteelSeries gaming mice (Rival,
 Sensei,...).
 
+This is a fork of rivalcfg with a very very very simple GUI wrapper I made using PyGObject, it may work or
+it may not work on your specific mice as I use the SteelSeries Prime Mini Wireless, it also does not 
+have many features but you can add the ones you need yourself, as I cba to make it better.
+
    **IMPORTANT:** This is an unofficial software. It was made by reverse
    engineering devices and is not supported nor approved by SteelSeries.
 
